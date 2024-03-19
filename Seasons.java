@@ -55,5 +55,6 @@ public class Seasons
         {
             System.out.println("Invalid month number");
         }
+        sc.close();
     }
 }
