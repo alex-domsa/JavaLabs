@@ -50,3 +50,4 @@ public class Palindromes
         return true;
     }   
 }
+//code solved

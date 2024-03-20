@@ -47,3 +47,4 @@ public class Primes
         return true;
     }
 }
+//Code solved

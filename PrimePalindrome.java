@@ -68,3 +68,4 @@ public class PrimePalindrome
         }
     }
 }
+//Code solved

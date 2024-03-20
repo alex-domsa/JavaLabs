@@ -18,7 +18,6 @@ inputted integer being passed into printStarTriangle().
 
 Sample Input = 3
 Sample Output =
-
     *
     **
     ***    */
@@ -28,11 +27,11 @@ public class Stars
 {
     public static void main (String [] args)
     {
-        Scanner scanner = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number of rows: ");
-        int rows = scanner.nextInt();
+        int rows = sc.nextInt();
         printStarTriangle(rows);
-        scanner.close();
+        sc.close();
     }
     
     public static void printStarTriangle(int rows)

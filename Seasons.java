@@ -58,3 +58,4 @@ public class Seasons
         sc.close();
     }
 }
+//Code solved

@@ -46,3 +46,4 @@ public class DoubleSize
         }
     }
 }
+//code solved
